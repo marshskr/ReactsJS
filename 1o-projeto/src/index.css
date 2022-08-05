@@ -9,25 +9,21 @@ body {
   background-color: #efefef;
 }
 
-h1, h2 {
-  color: white;
+input {
+  padding: 2px;
+}
+
+div {
   padding: 5px;
 }
 
-section {
-  margin: 0;
-  width: 100%;
-  background-color: black;
-  height: 40px;
+form {
+  padding: 10px;
 }
 
-img {
-  padding: 10px;
-
-}
-
-p {
-  padding: 10px;
+h1, h2 {
+  color: black;
+  padding: 5px;
 }
 
 code {
